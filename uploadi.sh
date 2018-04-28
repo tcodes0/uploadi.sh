@@ -5,7 +5,7 @@
 #enter below: command to use for SSH, and port
 #example: "ssh -p 83723"
 SSH=""
-#enter below: username@hostname:pathToRemoteDirectory
+#enter below: username@hostname:(path to directory that contains your projects)
 #example: "you@server.web-hosting.com:/home/you/work"
 remote_dir=""
 #enter below: local directory to upload **relative** to project directory
